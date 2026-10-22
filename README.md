@@ -21,4 +21,4 @@ My software engineering background spans Android platforms and LLM-powered Bixby
 
 Previously a live coach for NAVER Connect Foundation × Modulabs Boostcourse, teaching Python, data analysis, AI foundations, and generative AI. Also served as an Android code reviewer and a teaching assistant for professional data-science training.
 
-[LinkedIn](https://www.linkedin.com/in/taieui-song)
+[LinkedIn](https://www.linkedin.com/in/teimakes)
